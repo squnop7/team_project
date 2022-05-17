@@ -6,7 +6,7 @@
 <h3>Возвращаемые значения:</h3>
 
 
-# Документация к задаче 1 (<a href='task 2.py'>task 2.py</a>)
+# Документация к задаче 2 (<a href='task 2.py'>task 2.py</a>)
 ![2_1](https://user-images.githubusercontent.com/92087161/168673450-a1226b4e-747e-439f-b0f1-354a49ba18fd.jpg)
 (Представлен фрагмент программы)
 
